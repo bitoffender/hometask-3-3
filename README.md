@@ -11,14 +11,14 @@ Ordered list
 1. first
 2. second
 3. third
-
+<!-- -->
 ---
 
 Unordered list
 - first
 - second
 - third
-
+<!-- -->
 ---
 
 ```
@@ -31,6 +31,7 @@ cout << "Hello world!" << endl;
 ---
 
 ![NetologyLogo](https://netology.ru/dist-lms/public/89097e645ef271b8c7f2.svg)
+
 [Better than Skillbox](https://netology.ru)
 
 ---
@@ -46,3 +47,4 @@ Task list
 
 ---
 
+#### .md text displays properly in markdown preview, but for some reason it does not look as smooth as should when i am uploading code to the site.
